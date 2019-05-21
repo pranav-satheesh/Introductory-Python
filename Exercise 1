@@ -1,0 +1,2 @@
+1. Determine the smallest positive float ofyour Python installation by using a whileloop.
+2. Use the file given as test.dat. You will find two coloumns of float type numbers. Open the file in python, sum up the first two coloumns and write a new file with the third coloumn contatining the sum of the first two
